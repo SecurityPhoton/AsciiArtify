@@ -5,3 +5,4 @@
 
 ![Image](/doc/data/mvp.gif)
 
+![Image](/doc/data/tux.gif)
